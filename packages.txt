@@ -1,0 +1,4 @@
+build-essential
+libgl1-mesa-glx
+tesseract-ocr
+libtesseract-dev
